@@ -1,0 +1,36 @@
+.department-list {
+    width: 100%;
+  }
+  
+  .department-list .MuiListItem-root {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+  }
+  
+  .department-list .MuiCheckbox-root {
+    margin-right: 16px;
+  }
+  
+  .department-list .MuiTypography-root {
+    flex: 1;
+  }
+  
+  .department-list .MuiCollapse-container {
+    margin-left: 24px;
+  }
+  
+  .department-list .MuiListItem-button {
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+  }
+  
+  .department-list .MuiListItem-button .MuiCheckbox-root {
+    margin-right: 16px;
+  }
+  
+  .department-list .MuiListItem-button .MuiTypography-root {
+    flex: 1;
+  }
+  
